@@ -1,0 +1,1 @@
+# selenium-java-ux-capture-height-and-width
